@@ -1,47 +1,31 @@
 # Welcome to the Coral Project documentation! 
 
-This site aims to familiarize you with the Coral Project, how it works, and how you can help.
-
 ![coral-project](images/the_coral_project_home.png) 
 
-### What is the Coral Project?
 
-The Coral Project is an open source project to help publishers of all sizes build better communities around their journalism. We're creating tools that allow everyone feel safe, respected, and heard. It consists of three products: Ask, Talk and Trust.
+### What is The Coral Project?
+[The Coral Project](https://coralproject.net) is an open source initiative by the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) in partnership with [The New York Times](http://www.nytimes.com/), and [The Washington Post](http://washingtonpost.com/) to help publishers of all sizes build better communities around their journalism. We’re creating tools that allow everyone feel safe, respected, and heard. This page is dedicated to providing resources to assist community management through user guides, as well as installation and troubleshooting documentation for developers.
 
-Sign up for the [Coral Project newsletter](https://tinyletter.com/coralproject/subscribe/) to stay tuned for announcements, software updates and the latest news on community engagement.
+### Tools
+Alongside our guides, we are developing products to empower community members, engagement editors, journalists, and publishers. Our three tools are **Ask**, **Talk**, and **Trust**.
 
-If you'd like to learn more about the Coral Project from a high-level perspective, please visit our [ Coral Project website](https://www.coralproject.net). You can find information there about the project, our goals, and our products.
+* **Ask** lets you easily create embeddable forms, manage submissions, and display galleries of the best responses. It’s fast, flexible, and you control the design and the data.
 
+* **Talk** is a commenting system built from the ground up to focus on the needs of our users within the news. It also helps news sites easily integrate with our Trust tools.
 
-### Who Can Benefit?
+* **Trust** helps identify trustworthy users by allowing moderators and users create filters based on behavior (e.g., which users “likes” match that of your journalists), and to apply actions based on behaviors (e.g., assigning abusive users to pre-moderation).
 
-We’ve designed our products to meet essential needs of journalism through effective online communities.
+### What do you need help with?
+* Do you want to learn more about how to install our current tools? Check out our [docs for developers](https://docs.coralproject.net/products/ask/)
 
-**Publishers**
+* Do you want to learn more about how to use our current tools? Check out our [user guide](https://placeholder) for Ask.
 
-* Increase engagement, loyalty and user satisfaction
-
-**Editors**
-
-* Custom comment moderation dashboards, find great contributors and reduce spam submissions
-
-**Journalists**
-
-* Find potential story sources, high quality interactions and curate audience engagement
-
-**Community Members**
-
-* Control your commenting experience, interact with journalists and avoid harassment
-
-### Guides
-Strong community is about more than software. Our guides will help everyone in the newsroom be intentional about their community choices, whatever technology you use. We are currently covering these issues on our [blog](https://coralproject.net); the complete guides will be released in Q1 2017.
+* Want to learn more about building a healthy community? Our guides will help everyone in the newsroom be intentional about their community choices, whatever technology you use. We are currently covering these issues on our [blog](https://blog.coralproject.net/); the complete guides will be released in Q1 2017.
 
 
-### How can I contribute?
+### Want to contribute?
 
 We want your ideas, your requests, your experiences, your bug reports, your skills, your code. [Join our community of contributors](contribute).
-
-
 
 ### Learn more
 
