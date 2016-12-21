@@ -16,7 +16,7 @@ Alongside our guides, we are developing products to empower community members, e
 * **Trust** helps identify trustworthy users by allowing moderators and users create filters based on behavior (e.g., which users “likes” match that of your journalists), and to apply actions based on behaviors (e.g., assigning abusive users to pre-moderation).
 
 ### What do you need help with?
-* Do you want to learn more about how to install our current tools? Check out our [docs for developers](https://docs.coralproject.net/products/ask/)
+* Do you want to learn more about how to install our current tools? Check out our [docs for developers](https://docs.coralproject.net/products/ask/).
 
 * Do you want to learn more about how to use our current tools? Check out our [user guide](https://placeholder) for Ask.
 
